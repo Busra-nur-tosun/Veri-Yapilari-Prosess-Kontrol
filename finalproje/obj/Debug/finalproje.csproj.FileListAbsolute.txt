@@ -1,0 +1,19 @@
+C:\Users\casper\Desktop\veriyapıları\finalproje\finalproje\bin\Debug\finalproje.exe.config
+C:\Users\casper\Desktop\veriyapıları\finalproje\finalproje\obj\Debug\finalproje.csprojResolveAssemblyReference.cache
+C:\Users\casper\Desktop\veriyapıları\finalproje\finalproje\obj\Debug\finalproje.Form1.resources
+C:\Users\casper\Desktop\veriyapıları\finalproje\finalproje\obj\Debug\finalproje.Properties.Resources.resources
+C:\Users\casper\Desktop\veriyapıları\finalproje\finalproje\obj\Debug\finalproje.csproj.GenerateResource.Cache
+C:\Users\casper\Desktop\veriyapıları\finalproje\finalproje\bin\Debug\finalproje.exe
+C:\Users\casper\Desktop\veriyapıları\finalproje\finalproje\bin\Debug\finalproje.pdb
+C:\Users\casper\Desktop\veriyapıları\finalproje\finalproje\obj\Debug\finalproje.exe
+C:\Users\casper\Desktop\veriyapıları\finalproje\finalproje\obj\Debug\finalproje.pdb
+E:\veri yapıları ders notları\veriyapıları\finalproje\finalproje\bin\Debug\finalproje.exe.config
+E:\veri yapıları ders notları\veriyapıları\finalproje\finalproje\bin\Debug\finalproje.exe
+E:\veri yapıları ders notları\veriyapıları\finalproje\finalproje\bin\Debug\finalproje.pdb
+E:\veri yapıları ders notları\veriyapıları\finalproje\finalproje\obj\Debug\finalproje.csproj.AssemblyReference.cache
+E:\veri yapıları ders notları\veriyapıları\finalproje\finalproje\obj\Debug\finalproje.Form1.resources
+E:\veri yapıları ders notları\veriyapıları\finalproje\finalproje\obj\Debug\finalproje.Properties.Resources.resources
+E:\veri yapıları ders notları\veriyapıları\finalproje\finalproje\obj\Debug\finalproje.csproj.GenerateResource.cache
+E:\veri yapıları ders notları\veriyapıları\finalproje\finalproje\obj\Debug\finalproje.csproj.CoreCompileInputs.cache
+E:\veri yapıları ders notları\veriyapıları\finalproje\finalproje\obj\Debug\finalproje.exe
+E:\veri yapıları ders notları\veriyapıları\finalproje\finalproje\obj\Debug\finalproje.pdb
